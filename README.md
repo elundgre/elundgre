@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Much of my work while at Los Alamos National Laboratory is not available on GitHub due to lab policies, 
+but one thing that is available is the R package <a href="https://github.com/MolEvolEpid/biophybreak"><i>biophybreak</i></a>, 
+from the PLOS Computational Biology paper 
+<a href="https://doi.org/10.1371/journal.pcbi.1009741">"Combining biomarker and virus phylogenetic models improves HIV-1 epidemiological source identification"</a>.
